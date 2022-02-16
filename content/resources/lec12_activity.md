@@ -1,0 +1,14 @@
+---
+content_type: resource
+description: This resource contains instructions for an in-class activity.
+file: /media/courses/cms-998-new-media-literacies-spring-2007/da6fa5fdfc7146b2330bb438e2360fd5_lec12_activity.pdf
+file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
+resourcetype: Document
+title: lec12_activity.pdf
+uid: da6fa5fd-fc71-46b2-330b-b438e2360fd5
+---
