@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8d7f6c00-6a88-82f5-8ea7-508fe7096318
 resourcetype: Document
 title: lec12_activity.pdf
 uid: da6fa5fd-fc71-46b2-330b-b438e2360fd5

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8fe3bfeb-9feb-8a40-84b2-af457599cd52
 resourcetype: Document
 title: lec16lesplan.pdf
 uid: 63521b94-d0dd-7bed-1c20-1a2ca0987046

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 84ca676d-89d7-33ef-0d1d-d7efb12d9334
 resourcetype: Document
 title: nmlwhitepaper.pdf
 uid: 281d3a92-ade0-5238-f978-081ba290e9bd

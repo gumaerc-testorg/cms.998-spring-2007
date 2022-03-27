@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8d7f6c00-6a88-82f5-8ea7-508fe7096318
 resourcetype: Document
 title: lear_week.pdf
 uid: b8e3e5dc-701b-b674-befc-b9053eddce93
