@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the readings assigned for each session
+  of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -50,7 +52,7 @@ No assigned readings
 
 "2006 Person of the Year: You." _Time_ 168, no. 26 (December 25, 2006/January 1, 2007).
 
-Jenkins, Henry, et al. _Confronting the Challenges of Participatory Culture: Media Education for the 21st Century_. MacArthur Foundation white paper. ([PDF - 1.8 MB]({{< baseurl >}}/resources/nmlwhitepaper)) (Courtesy of Prof. Henry Jenkins. Used with permission.)
+Jenkins, Henry, et al. _Confronting the Challenges of Participatory Culture: Media Education for the 21st Century_. MacArthur Foundation white paper. ({{% resource_link 281d3a92-ade0-5238-f978-081ba290e9bd "PDF - 1.8 MB" %}}) (Courtesy of Prof. Henry Jenkins. Used with permission.)
 
 
 {{< tdclose >}}

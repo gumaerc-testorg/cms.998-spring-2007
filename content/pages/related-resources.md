@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section features study resources, useful links, and other interesting
+  media literacy Web sites.    '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -27,7 +29,7 @@ Danah Boyd's "[Identity Production in a Networked Culture: Why Youth Heart MySpa
 
 [For Teachers New to Wikis](http://virtuallythere.wikispaces.com/Wikis+in+Teaching)
 
-Reading at Risk ([PDF]({{< baseurl >}}/resources/readingatrisk))  
+Reading at Risk ({{% resource_link e5d6f4e2-8224-7478-4951-d5b21cd97d8f "PDF" %}})  
 (NEA survey on reading in America.)
 
 [Using technology in teaching and learning: Resources to help you navigate a digital world](https://crln.acrl.org/index.php/crlnews/article/view/7752/7752)
@@ -42,7 +44,7 @@ Reading at Risk ([PDF]({{< baseurl >}}/resources/readingatrisk))
 [Alliance for a Media Literate America](http://www.medialit.org/reading-room/alliance-media-literate-america-founding-declaration)  
 (A clearinghouse for media literacy research, connections, information, data. One of the more professional organizations out there.)
 
-Media Literacy Education ([PDF]({{< baseurl >}}/resources/mle_comparsn_grd)) (Courtesy of the Alliance for a Media Literate America. Used with permission.)
+Media Literacy Education ({{% resource_link e042eb89-838a-71d4-16b1-4345fcfae0d7 "PDF" %}}) (Courtesy of the Alliance for a Media Literate America. Used with permission.)
 
 [Peanut Butter Wiki](http://pbwiki.com/)  
 (A great site for building a quick-and-easy wiki!)

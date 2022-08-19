@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the course description and information about course
+  objectives, learning goals, required texts and readings, grading and assessment,
+  working with the teaching assistant, attendance and participation, the writing and
+  communication center, students with disabilities and special needs, and a calendar
+  of lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -26,7 +31,7 @@ The purposes of _New Media Literacies_ are both theoretical and practical. Stude
 Required Texts and Readings
 ---------------------------
 
-Please consult the Weekly Schedule below for assigned week-to-week readings. There are no required texts to purchase for this class: all readings are available in the [readings]({{< baseurl >}}/pages/readings) section.
+Please consult the Weekly Schedule below for assigned week-to-week readings. There are no required texts to purchase for this class: all readings are available in the {{% resource_link 84ca676d-89d7-33ef-0d1d-d7efb12d9334 "readings" %}} section.
 
 Grading and Assessment
 ----------------------
@@ -35,7 +40,7 @@ The course is directed toward upper-division undergraduates and graduate student
 
 Although I am quite open to students developing and projects and papers that meet their own paths of research, I will occasionally assign shorter tasks that might enable them to learn better. For example, if a student is working on a formal, end-of-semester research paper, I might assign an annotated bibliography or first draft to help her along. Or, if a student is taking the course to supplement her senior thesis, I might encourage her to regularly share her work-in-progress with the class when it is relevant to current course topics. However, students are expected to consult with me one-on-one prior to the fourth week in the semester to discuss their goals for producing a project or paper in line with the themes of _New Media Literacies_. This project or paper and its steps will be agreed upon mutually between us and together we will come up with a plan and deadlines. This project will count for half of your grade in the course.
 
-Other major assignments for the course will take place during the "Learning Weeks" in the weekly schedule. During those weeks, students will work together to present teaching workshops, lessons, or hands-on demonstrations of the production, use, and interpretation of new media literacies. We'll tap into each other's expertise so that we can all experience collective intelligence in practice! The formal assignment for the Learning Weeks tasks is available in the [assignments]({{< baseurl >}}/pages/assignments) section.
+Other major assignments for the course will take place during the "Learning Weeks" in the weekly schedule. During those weeks, students will work together to present teaching workshops, lessons, or hands-on demonstrations of the production, use, and interpretation of new media literacies. We'll tap into each other's expertise so that we can all experience collective intelligence in practice! The formal assignment for the Learning Weeks tasks is available in the {{% resource_link 8d7f6c00-6a88-82f5-8ea7-508fe7096318 "assignments" %}} section.
 
 Evaluation is based on the student's goals and personal evaluation criteria for her project, which will be addressed in consultation with the instructor. With the "Learning Week" assignments, a list of evaluation criteria will be listed on the assignment sheet. In general, students will be updated regularly on their progress in the course and provided with feedback from the instructor. Students are encouraged to attend regular office hours and keep in touch with me with regard to grades and feedback.
 
