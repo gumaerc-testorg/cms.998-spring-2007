@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains a lesson plan about expressing yourself online
   using audio with Podcasting.
-file: /courses/cms-998-new-media-literacies-spring-2007/63521b94d0dd7bed1c201a2ca0987046_lec16lesplan.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/63521b94d0dd7bed1c201a2ca0987046_lec16lesplan.pdf
+file_size: 525741
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

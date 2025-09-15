@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Notes from an in-class discussion on multimodality.
-file: /courses/cms-998-new-media-literacies-spring-2007/a02f942157c82e8c705ff51c9b2db48f_lec14_ques.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/a02f942157c82e8c705ff51c9b2db48f_lec14_ques.pdf
+file_size: 10761
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

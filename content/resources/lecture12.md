@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes about new literacies and new media, part 2.
-file: /courses/cms-998-new-media-literacies-spring-2007/82456d8688af71c33f3a1c6e9363a9ef_lecture12.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/82456d8688af71c33f3a1c6e9363a9ef_lecture12.pdf
+file_size: 35683
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

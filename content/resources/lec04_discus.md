@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Discussion section notes about how writing transforms consciousness.
-file: /courses/cms-998-new-media-literacies-spring-2007/08ab7a6f0faaeb20f5cd36023b000849_lec04_discus.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/08ab7a6f0faaeb20f5cd36023b000849_lec04_discus.pdf
+file_size: 19842
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

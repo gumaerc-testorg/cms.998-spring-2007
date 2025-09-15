@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about situated learning and wikis. Where does learning
   happen?
-file: /courses/cms-998-new-media-literacies-spring-2007/ec53f71ddebb09651b610442225507aa_lecture18.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/ec53f71ddebb09651b610442225507aa_lecture18.pdf
+file_size: 30022
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

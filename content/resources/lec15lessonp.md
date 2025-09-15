@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains a lesson plan on making and publishing animations
   with Photoshop.
-file: /courses/cms-998-new-media-literacies-spring-2007/1b71c39142eece7c3b80fbf4b111fe31_lec15lessonp.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/1b71c39142eece7c3b80fbf4b111fe31_lec15lessonp.pdf
+file_size: 38248
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

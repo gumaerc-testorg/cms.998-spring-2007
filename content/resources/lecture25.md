@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes for learning week on games and game design, and video editing.
-file: /courses/cms-998-new-media-literacies-spring-2007/7941684f565cc9c70f5a6bbe9f47ad3f_lecture25.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/7941684f565cc9c70f5a6bbe9f47ad3f_lecture25.pdf
+file_size: 30295
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

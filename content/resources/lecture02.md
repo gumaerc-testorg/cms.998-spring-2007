@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes with an introduction to new media literacies. Where is
   media literacy headed? What's at stake?
-file: /courses/cms-998-new-media-literacies-spring-2007/9d7a021e527feb83c1fb9afec2e53fb0_lecture02.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/9d7a021e527feb83c1fb9afec2e53fb0_lecture02.pdf
+file_size: 37380
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

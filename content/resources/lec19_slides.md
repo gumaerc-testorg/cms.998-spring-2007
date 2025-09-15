@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains a lesson plan on wikis.
-file: /courses/cms-998-new-media-literacies-spring-2007/20e0f2ecf3e9dcf63a666c751d2c9736_lec19_slides.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/20e0f2ecf3e9dcf63a666c751d2c9736_lec19_slides.pdf
+file_size: 42602
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

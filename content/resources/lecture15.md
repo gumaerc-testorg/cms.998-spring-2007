@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes for learning week about animation and podcasting.
-file: /courses/cms-998-new-media-literacies-spring-2007/53e03eb17ed3ca61a1affb90cc6ae862_lecture15.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/53e03eb17ed3ca61a1affb90cc6ae862_lecture15.pdf
+file_size: 30793
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

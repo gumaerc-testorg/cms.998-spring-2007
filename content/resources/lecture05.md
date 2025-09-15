@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about origins of literacy in the west. Where does literacy
   come from? Where is it found?
-file: /courses/cms-998-new-media-literacies-spring-2007/ae47b3a033d469adea94783409d3d253_lecture05.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/ae47b3a033d469adea94783409d3d253_lecture05.pdf
+file_size: 31507
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

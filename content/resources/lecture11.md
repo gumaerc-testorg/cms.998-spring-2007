@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about new literacies and new media, part 1. What are the
   new literacy studies? What do they have to do with media?
-file: /courses/cms-998-new-media-literacies-spring-2007/81a58bc664d4c1610cdf8f12f8af6642_lecture11.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/81a58bc664d4c1610cdf8f12f8af6642_lecture11.pdf
+file_size: 16554
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: A survey of literary reading in America.
-file: /courses/cms-998-new-media-literacies-spring-2007/e5d6f4e2822474784951d5b21cd97d8f_readingatrisk.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/e5d6f4e2822474784951d5b21cd97d8f_readingatrisk.pdf
+file_size: 829049
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains a lesson plan on wiki use and creation.
-file: /courses/cms-998-new-media-literacies-spring-2007/ee3af1ee5e6914d6bb43252e27f0f0ed_lec19_lessonplan.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/ee3af1ee5e6914d6bb43252e27f0f0ed_lec19_lessonplan.pdf
+file_size: 28719
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

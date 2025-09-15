@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains instructions for completing the learning week
   assignment.
-file: /courses/cms-998-new-media-literacies-spring-2007/b8e3e5dc701bb674befcb9053eddce93_lear_week.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/b8e3e5dc701bb674befcb9053eddce93_lear_week.pdf
+file_size: 24796
 file_type: application/pdf
 learning_resource_types:
 - Assignments

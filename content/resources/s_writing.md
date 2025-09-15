@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains instructions for the short writing assignment.
-file: /courses/cms-998-new-media-literacies-spring-2007/5e7e691a62df40cb5fd259ba1068efca_s_writing.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/5e7e691a62df40cb5fd259ba1068efca_s_writing.pdf
+file_size: 19828
 file_type: application/pdf
 learning_resource_types:
 - Assignments

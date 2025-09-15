@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes for learning week on forums, Photoshop, and image editing.
-file: /courses/cms-998-new-media-literacies-spring-2007/b5cdd489c104ff276f9a604bb562a06d_lecture09.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/b5cdd489c104ff276f9a604bb562a06d_lecture09.pdf
+file_size: 36032
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

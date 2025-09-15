@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about embodied cognition. How do we learn, know, interpret
   and produce these new media?
-file: /courses/cms-998-new-media-literacies-spring-2007/868dd05270970f9b69984822f2790d20_lecture21.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/868dd05270970f9b69984822f2790d20_lecture21.pdf
+file_size: 20676
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

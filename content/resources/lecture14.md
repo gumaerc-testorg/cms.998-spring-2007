@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about multimodality. What counts as a text in the new media
   literacies?
-file: /courses/cms-998-new-media-literacies-spring-2007/ed8d9caee170586ff1c827175717faea_lecture14.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/ed8d9caee170586ff1c827175717faea_lecture14.pdf
+file_size: 34615
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

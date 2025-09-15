@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Comparison chart of definitions & concepts for media literacy education.
-file: /courses/cms-998-new-media-literacies-spring-2007/e042eb89838a71d416b14345fcfae0d7_mle_comparsn_grd.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/e042eb89838a71d416b14345fcfae0d7_mle_comparsn_grd.pdf
+file_size: 124467
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

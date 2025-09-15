@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/cms-998-new-media-literacies-spring-2007/8f03583e47f04681c718f52dbff10051_cms-998s07-th.jpg
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/8f03583e47f04681c718f52dbff10051_cms-998s07-th.jpg
+file_size: 8441
 file_type: image/jpeg
 image_metadata:
   caption: Education, streaking ahead. (Photo courtesy of [joshua.green](http://www.flickr.com/photos/gully/955937244/).)

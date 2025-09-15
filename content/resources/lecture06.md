@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about literacy and the media. How is literacy portrayed
   in media and schools? What is the "literacy myth"?
-file: /courses/cms-998-new-media-literacies-spring-2007/b0785beb95dc2e8534d652b8841561b0_lecture06.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/b0785beb95dc2e8534d652b8841561b0_lecture06.pdf
+file_size: 37877
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

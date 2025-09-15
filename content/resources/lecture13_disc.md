@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Discussion notes on new literacies and new media.
-file: /courses/cms-998-new-media-literacies-spring-2007/6cc35f365d0db89f4be689b6c9cd5189_lecture13_disc.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/6cc35f365d0db89f4be689b6c9cd5189_lecture13_disc.pdf
+file_size: 20605
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,7 +2,8 @@
 content_type: resource
 description: 'MacArthur Foundation white paper: Confronting the Challenges of Participatory
   Culture: Media Education for the 21st Century.'
-file: /courses/cms-998-new-media-literacies-spring-2007/281d3a92ade05238f978081ba290e9bd_nmlwhitepaper.pdf
+file: /ol-ocw-studio-app/courses/cms-998-new-media-literacies-spring-2007/281d3a92ade05238f978081ba290e9bd_nmlwhitepaper.pdf
+file_size: 1847631
 file_type: application/pdf
 learning_resource_types:
 - Readings
