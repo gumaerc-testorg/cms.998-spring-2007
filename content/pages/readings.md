@@ -65,7 +65,7 @@ Jenkins, Henry, et al. _Confronting the Challenges of Participatory Culture: Med
 {{< tdopen >}}
 
 
-Hobbs, Renee. "[The Seven Great Debates in the Media Literacy Movement](http://www.medialit.org/reading-room/seven-great-debates-media-literacy-movement-circa-2001)."
+Hobbs, Renee. "{{% resource_link "bf09a82e-1fab-4115-b411-146644ed3c90" "The Seven Great Debates in the Media Literacy Movement" %}}."
 
 ———. "Advertising, Persuasion, and Propaganda." In _Reading the Media: Media Literacy in High School English_. New York, NY: Teachers College Press, 2007. ISBN: 0978807747391.
 
@@ -375,7 +375,7 @@ How do we learn, know, interpret and produce these new media?
 
 Gee, J. P. "Simulations and Bodies." In _Situated Language and Learning: A Critique of Traditional Schooling_. London, England: Routledge, 2004, pp. 39-56. ISBN: 9780415317771.
 
- [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262041966) Dourish, P. "Being-in-the-world: Embodied Interaction." In _Where the Action Is: The Foundations of Embodied Interaction_. Cambridge, MA: MIT Press, 2001, pp. 99-126. ISBN: 9780262041966.
+ {{% resource_link "4c9e9b02-f23c-4212-927b-0c741091e6d0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Dourish, P. "Being-in-the-world: Embodied Interaction." In _Where the Action Is: The Foundations of Embodied Interaction_. Cambridge, MA: MIT Press, 2001, pp. 99-126. ISBN: 9780262041966.
 
 
 {{< tdclose >}}

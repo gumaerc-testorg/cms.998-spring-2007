@@ -51,7 +51,7 @@ You will be expected to take on a leadership role in the course, providing model
 Working with the Teaching Assistant
 -----------------------------------
 
-Neal Grigsby is a 2nd-year master's student in the Comparative Media Studies program here at MIT. I asked him to help teach the course because of his expertise working for two years on the [New Media Literacies project](http://projectnml.org/). Neal is an experienced teacher, a terrific writer, and a helpful coach. Students are encouraged to work with Neal in understanding course content, writing and project goals, feedback on assignments, and preparing for class. I have great confidence that he'll be a smart and encouraging teaching assistant and I hope you'll spend time working with him this semester.
+Neal Grigsby is a 2nd-year master's student in the Comparative Media Studies program here at MIT. I asked him to help teach the course because of his expertise working for two years on the {{% resource_link "a8d310b1-b5e6-4663-bfea-880ed63155a7" "New Media Literacies project" %}}. Neal is an experienced teacher, a terrific writer, and a helpful coach. Students are encouraged to work with Neal in understanding course content, writing and project goals, feedback on assignments, and preparing for class. I have great confidence that he'll be a smart and encouraging teaching assistant and I hope you'll spend time working with him this semester.
 
 Attendance and Participation
 ----------------------------
